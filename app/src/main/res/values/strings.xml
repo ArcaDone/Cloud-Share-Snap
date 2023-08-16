@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CloudShareSnap</string>
+    <string name="step_one_continue">Continue</string>
+    <string name="countries">Countries</string>
+    <string name="copy_link">COPY LINK</string>
+    <string name="photo_result">Photo Result</string>
+    <string name="photo_selection">Photo Selection</string>
+    <string name="tap_to_add_photos">Tap to add Photos</string>
+    <string name="load_photos_to_cloud">Load Photos to Cloud</string>
+    <string name="add_more">Add More</string>
+    <string name="click_to_choose_yours">Click to choose yours</string>
+    <string name="add_a_photos">Add a Photos</string>
+    <string name="click_me">Click me</string>
+    <string name="iso">ISO: %1$s</string>
+    <string name="iso_alpha2">ISO Alpha2: %1$s</string>
+    <string name="iso_alpha3">ISO Alpha3: %1$s</string>
+    <string name="phone_prefix">Phone Prefix: %1$s</string>
+</resources>

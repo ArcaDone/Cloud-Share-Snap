@@ -1,0 +1,37 @@
+# Specification of the version of GitLab CI/CD I want to use
+image: openjdk:11
+
+# Definition of the build, test, and deploy stages
+stages:
+  - build
+  - test
+  - deploy
+
+# Definition of the scripts for each stage
+build:
+  stage: build
+  script:
+    - ./gradlew assembleDebug
+
+test:
+  stage: test
+  script:
+    - ./gradlew testDebugUnitTest
+
+deploy_to_staging:
+  stage: deploy
+  script:
+    - echo "Deploying to staging server"
+  environment:
+    name: staging
+    url: https://staging.example.com
+
+deploy_to_production:
+  stage: deploy
+  script:
+    - echo "Deploying to production server"
+  environment:
+    name: production
+    url: https://www.example.com
+  only:
+    - master  # Deploy only when code is on the 'master' branch

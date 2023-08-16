@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="debug_image_uris">
+        <item>android.resource://com.arcadone.cloudsharesnap/drawable/non_su_1</item>
+        <item>android.resource://com.arcadone.cloudsharesnap/drawable/non_su_2</item>
+    </string-array>
+</resources>

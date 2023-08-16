@@ -1,0 +1,1577 @@
+[
+  {
+    "iso": 248,
+    "isoAlpha2": "AX",
+    "isoAlpha3": "ALA",
+    "name": "Aland Islands",
+    "phonePrefix": "+358-18"
+  },
+  {
+    "iso": 8,
+    "isoAlpha2": "AL",
+    "isoAlpha3": "ALB",
+    "name": "Albania",
+    "phonePrefix": "+355"
+  },
+  {
+    "iso": 12,
+    "isoAlpha2": "DZ",
+    "isoAlpha3": "DZA",
+    "name": "Algeria",
+    "phonePrefix": "+213"
+  },
+  {
+    "iso": 16,
+    "isoAlpha2": "AS",
+    "isoAlpha3": "ASM",
+    "name": "American Samoa",
+    "phonePrefix": "+1-684"
+  },
+  {
+    "iso": 8,
+    "isoAlpha2": "AD",
+    "isoAlpha3": "AND",
+    "name": "Andorra",
+    "phonePrefix": "+376"
+  },
+  {
+    "iso": 24,
+    "isoAlpha2": "AO",
+    "isoAlpha3": "AGO",
+    "name": "Angola",
+    "phonePrefix": "+244"
+  },
+  {
+    "iso": 660,
+    "isoAlpha2": "AI",
+    "isoAlpha3": "AIA",
+    "name": "Anguilla",
+    "phonePrefix": "+1-264"
+  },
+  {
+    "iso": 10,
+    "isoAlpha2": "AQ",
+    "isoAlpha3": "ATA",
+    "name": "Antarctica",
+    "phonePrefix": "+672"
+  },
+  {
+    "iso": 28,
+    "isoAlpha2": "AG",
+    "isoAlpha3": "ATG",
+    "name": "Antigua and Barbuda",
+    "phonePrefix": "+1-268"
+  },
+  {
+    "iso": 32,
+    "isoAlpha2": "AR",
+    "isoAlpha3": "ARG",
+    "name": "Argentina",
+    "phonePrefix": "+54"
+  },
+  {
+    "iso": 51,
+    "isoAlpha2": "AM",
+    "isoAlpha3": "ARM",
+    "name": "Armenia",
+    "phonePrefix": "+374"
+  },
+  {
+    "iso": 533,
+    "isoAlpha2": "AW",
+    "isoAlpha3": "ABW",
+    "name": "Aruba",
+    "phonePrefix": "+297"
+  },
+  {
+    "iso": 36,
+    "isoAlpha2": "AU",
+    "isoAlpha3": "AUS",
+    "name": "Australia",
+    "phonePrefix": "+61"
+  },
+  {
+    "iso": 40,
+    "isoAlpha2": "AT",
+    "isoAlpha3": "AUT",
+    "name": "Austria",
+    "phonePrefix": "+43"
+  },
+  {
+    "iso": 31,
+    "isoAlpha2": "AZ",
+    "isoAlpha3": "AZE",
+    "name": "Azerbaijan",
+    "phonePrefix": "+994"
+  },
+  {
+    "iso": 44,
+    "isoAlpha2": "BS",
+    "isoAlpha3": "BHS",
+    "name": "Bahamas",
+    "phonePrefix": "+1-242"
+  },
+  {
+    "iso": 48,
+    "isoAlpha2": "BH",
+    "isoAlpha3": "BHR",
+    "name": "Bahrain",
+    "phonePrefix": "+973"
+  },
+  {
+    "iso": 50,
+    "isoAlpha2": "BD",
+    "isoAlpha3": "BGD",
+    "name": "Bangladesh",
+    "phonePrefix": "+880"
+  },
+  {
+    "iso": 52,
+    "isoAlpha2": "BB",
+    "isoAlpha3": "BRB",
+    "name": "Barbados",
+    "phonePrefix": "+1-246"
+  },
+  {
+    "iso": 56,
+    "isoAlpha2": "BE",
+    "isoAlpha3": "BEL",
+    "name": "Belgium",
+    "phonePrefix": "+32"
+  },
+  {
+    "iso": 84,
+    "isoAlpha2": "BZ",
+    "isoAlpha3": "BLZ",
+    "name": "Belize",
+    "phonePrefix": "+501"
+  },
+  {
+    "iso": 204,
+    "isoAlpha2": "BJ",
+    "isoAlpha3": "BEN",
+    "name": "Benin",
+    "phonePrefix": "+229"
+  },
+  {
+    "iso": 60,
+    "isoAlpha2": "BM",
+    "isoAlpha3": "BMU",
+    "name": "Bermuda",
+    "phonePrefix": "+1-441"
+  },
+  {
+    "iso": 64,
+    "isoAlpha2": "BT",
+    "isoAlpha3": "BTN",
+    "name": "Bhutan",
+    "phonePrefix": "+975"
+  },
+  {
+    "iso": 68,
+    "isoAlpha2": "BO",
+    "isoAlpha3": "BOL",
+    "name": "Bolivia",
+    "phonePrefix": "+591"
+  },
+  {
+    "iso": 70,
+    "isoAlpha2": "BA",
+    "isoAlpha3": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "phonePrefix": "+387"
+  },
+  {
+    "iso": 72,
+    "isoAlpha2": "BW",
+    "isoAlpha3": "BWA",
+    "name": "Botswana",
+    "phonePrefix": "+267"
+  },
+  {
+    "iso": 74,
+    "isoAlpha2": "BV",
+    "isoAlpha3": "BVT",
+    "name": "Bouvet Island",
+    "phonePrefix": "+47"
+  },
+  {
+    "iso": 76,
+    "isoAlpha2": "BR",
+    "isoAlpha3": "BRA",
+    "name": "Brazil",
+    "phonePrefix": "+55"
+  },
+  {
+    "iso": 86,
+    "isoAlpha2": "IO",
+    "isoAlpha3": "IOT",
+    "name": "British Indian Ocean Territory",
+    "phonePrefix": "+246"
+  },
+  {
+    "iso": 92,
+    "isoAlpha2": "VG",
+    "isoAlpha3": "VGB",
+    "name": "British Virgin Islands",
+    "phonePrefix": "+1-284"
+  },
+  {
+    "iso": 96,
+    "isoAlpha2": "BN",
+    "isoAlpha3": "BRN",
+    "name": "Brunei Darussalam",
+    "phonePrefix": "+673"
+  },
+  {
+    "iso": 100,
+    "isoAlpha2": "BG",
+    "isoAlpha3": "BGR",
+    "name": "Bulgaria",
+    "phonePrefix": "+359"
+  },
+  {
+    "iso": 854,
+    "isoAlpha2": "BF",
+    "isoAlpha3": "BFA",
+    "name": "Burkina Faso",
+    "phonePrefix": "+226"
+  },
+  {
+    "iso": 108,
+    "isoAlpha2": "BI",
+    "isoAlpha3": "BDI",
+    "name": "Burundi",
+    "phonePrefix": "+257"
+  },
+  {
+    "iso": 116,
+    "isoAlpha2": "KH",
+    "isoAlpha3": "KHM",
+    "name": "Cambodia",
+    "phonePrefix": "+855"
+  },
+  {
+    "iso": 120,
+    "isoAlpha2": "CM",
+    "isoAlpha3": "CMR",
+    "name": "Cameroon",
+    "phonePrefix": "+237"
+  },
+  {
+    "iso": 124,
+    "isoAlpha2": "CA",
+    "isoAlpha3": "CAN",
+    "name": "Canada",
+    "phonePrefix": "+1"
+  },
+  {
+    "iso": 132,
+    "isoAlpha2": "CV",
+    "isoAlpha3": "CPV",
+    "name": "Cape Verde",
+    "phonePrefix": "+238"
+  },
+  {
+    "iso": 136,
+    "isoAlpha2": "KY",
+    "isoAlpha3": "CYM",
+    "name": "Cayman Islands",
+    "phonePrefix": "+1-345"
+  },
+  {
+    "iso": 140,
+    "isoAlpha2": "CF",
+    "isoAlpha3": "CAF",
+    "name": "Central African Republic",
+    "phonePrefix": "+236"
+  },
+  {
+    "iso": 148,
+    "isoAlpha2": "TD",
+    "isoAlpha3": "TCD",
+    "name": "Chad",
+    "phonePrefix": "+235"
+  },
+  {
+    "iso": 152,
+    "isoAlpha2": "CL",
+    "isoAlpha3": "CHL",
+    "name": "Chile",
+    "phonePrefix": "+56"
+  },
+  {
+    "iso": 156,
+    "isoAlpha2": "CN",
+    "isoAlpha3": "CHN",
+    "name": "China",
+    "phonePrefix": "+86"
+  },
+  {
+    "iso": 162,
+    "isoAlpha2": "CX",
+    "isoAlpha3": "CXR",
+    "name": "Christmas Island",
+    "phonePrefix": "+61"
+  },
+  {
+    "iso": 166,
+    "isoAlpha2": "CC",
+    "isoAlpha3": "CCK",
+    "name": "Cocos (Keeling) Islands",
+    "phonePrefix": "+61"
+  },
+  {
+    "iso": 170,
+    "isoAlpha2": "CO",
+    "isoAlpha3": "COL",
+    "name": "Colombia",
+    "phonePrefix": "+57"
+  },
+  {
+    "iso": 174,
+    "isoAlpha2": "KM",
+    "isoAlpha3": "COM",
+    "name": "Comoros",
+    "phonePrefix": "+269"
+  },
+  {
+    "iso": 178,
+    "isoAlpha2": "CG",
+    "isoAlpha3": "COG",
+    "name": "Congo (Brazzaville)",
+    "phonePrefix": "+242"
+  },
+  {
+    "iso": 184,
+    "isoAlpha2": "CK",
+    "isoAlpha3": "COK",
+    "name": "Cook Islands",
+    "phonePrefix": "+682"
+  },
+  {
+    "iso": 188,
+    "isoAlpha2": "CR",
+    "isoAlpha3": "CRI",
+    "name": "Costa Rica",
+    "phonePrefix": "+506"
+  },
+  {
+    "iso": 191,
+    "isoAlpha2": "HR",
+    "isoAlpha3": "HRV",
+    "name": "Croatia",
+    "phonePrefix": "+385"
+  },
+  {
+    "iso": 196,
+    "isoAlpha2": "CY",
+    "isoAlpha3": "CYP",
+    "name": "Cyprus",
+    "phonePrefix": "+357"
+  },
+  {
+    "iso": 203,
+    "isoAlpha2": "CZ",
+    "isoAlpha3": "CZE",
+    "name": "Czech Republic",
+    "phonePrefix": "+420"
+  },
+  {
+    "iso": 208,
+    "isoAlpha2": "DK",
+    "isoAlpha3": "DNK",
+    "name": "Denmark",
+    "phonePrefix": "+45"
+  },
+  {
+    "iso": 262,
+    "isoAlpha2": "DJ",
+    "isoAlpha3": "DJI",
+    "name": "Djibouti",
+    "phonePrefix": "+253"
+  },
+  {
+    "iso": 212,
+    "isoAlpha2": "DM",
+    "isoAlpha3": "DMA",
+    "name": "Dominica",
+    "phonePrefix": "+1-767"
+  },
+  {
+    "iso": 214,
+    "isoAlpha2": "DO",
+    "isoAlpha3": "DOM",
+    "name": "Dominican Republic",
+    "phonePrefix": "+1-809"
+  },
+  {
+    "iso": 218,
+    "isoAlpha2": "EC",
+    "isoAlpha3": "ECU",
+    "name": "Ecuador",
+    "phonePrefix": "+593"
+  },
+  {
+    "iso": 222,
+    "isoAlpha2": "SV",
+    "isoAlpha3": "SLV",
+    "name": "El Salvador",
+    "phonePrefix": "+503"
+  },
+  {
+    "iso": 226,
+    "isoAlpha2": "GQ",
+    "isoAlpha3": "GNQ",
+    "name": "Equatorial Guinea",
+    "phonePrefix": "+240"
+  },
+  {
+    "iso": 233,
+    "isoAlpha2": "EE",
+    "isoAlpha3": "EST",
+    "name": "Estonia",
+    "phonePrefix": "+372"
+  },
+  {
+    "iso": 231,
+    "isoAlpha2": "ET",
+    "isoAlpha3": "ETH",
+    "name": "Ethiopia",
+    "phonePrefix": "+251"
+  },
+  {
+    "iso": 238,
+    "isoAlpha2": "FK",
+    "isoAlpha3": "FLK",
+    "name": "Falkland Islands (Malvinas)",
+    "phonePrefix": "+500"
+  },
+  {
+    "iso": 234,
+    "isoAlpha2": "FO",
+    "isoAlpha3": "FRO",
+    "name": "Faroe Islands",
+    "phonePrefix": "+298"
+  },
+  {
+    "iso": 242,
+    "isoAlpha2": "FJ",
+    "isoAlpha3": "FJI",
+    "name": "Fiji",
+    "phonePrefix": "+679"
+  },
+  {
+    "iso": 246,
+    "isoAlpha2": "FI",
+    "isoAlpha3": "FIN",
+    "name": "Finland",
+    "phonePrefix": "+358"
+  },
+  {
+    "iso": 250,
+    "isoAlpha2": "FR",
+    "isoAlpha3": "FRA",
+    "name": "France",
+    "phonePrefix": "+33"
+  },
+  {
+    "iso": 254,
+    "isoAlpha2": "GF",
+    "isoAlpha3": "GUF",
+    "name": "French Guiana",
+    "phonePrefix": "+594"
+  },
+  {
+    "iso": 258,
+    "isoAlpha2": "PF",
+    "isoAlpha3": "PYF",
+    "name": "French Polynesia",
+    "phonePrefix": "+689"
+  },
+  {
+    "iso": 260,
+    "isoAlpha2": "TF",
+    "isoAlpha3": "ATF",
+    "name": "French Southern Territories",
+    "phonePrefix": "+33"
+  },
+  {
+    "iso": 266,
+    "isoAlpha2": "GA",
+    "isoAlpha3": "GAB",
+    "name": "Gabon",
+    "phonePrefix": "+241"
+  },
+  {
+    "iso": 270,
+    "isoAlpha2": "GM",
+    "isoAlpha3": "GMB",
+    "name": "Gambia",
+    "phonePrefix": "+220"
+  },
+  {
+    "iso": 268,
+    "isoAlpha2": "GE",
+    "isoAlpha3": "GEO",
+    "name": "Georgia",
+    "phonePrefix": "+995"
+  },
+  {
+    "iso": 276,
+    "isoAlpha2": "DE",
+    "isoAlpha3": "DEU",
+    "name": "Germany",
+    "phonePrefix": "+49"
+  },
+  {
+    "iso": 288,
+    "isoAlpha2": "GH",
+    "isoAlpha3": "GHA",
+    "name": "Ghana",
+    "phonePrefix": "+233"
+  },
+  {
+    "iso": 292,
+    "isoAlpha2": "GI",
+    "isoAlpha3": "GIB",
+    "name": "Gibraltar",
+    "phonePrefix": "+350"
+  },
+  {
+    "iso": 300,
+    "isoAlpha2": "GR",
+    "isoAlpha3": "GRC",
+    "name": "Greece",
+    "phonePrefix": "+30"
+  },
+  {
+    "iso": 304,
+    "isoAlpha2": "GL",
+    "isoAlpha3": "GRL",
+    "name": "Greenland",
+    "phonePrefix": "+299"
+  },
+  {
+    "iso": 308,
+    "isoAlpha2": "GD",
+    "isoAlpha3": "GRD",
+    "name": "Grenada",
+    "phonePrefix": "+1-473"
+  },
+  {
+    "iso": 312,
+    "isoAlpha2": "GP",
+    "isoAlpha3": "GLP",
+    "name": "Guadeloupe",
+    "phonePrefix": "+590"
+  },
+  {
+    "iso": 316,
+    "isoAlpha2": "GU",
+    "isoAlpha3": "GUM",
+    "name": "Guam",
+    "phonePrefix": "+1-671"
+  },
+  {
+    "iso": 320,
+    "isoAlpha2": "GT",
+    "isoAlpha3": "GTM",
+    "name": "Guatemala",
+    "phonePrefix": "+502"
+  },
+  {
+    "iso": 831,
+    "isoAlpha2": "GG",
+    "isoAlpha3": "GGY",
+    "name": "Guernsey",
+    "phonePrefix": "+44"
+  },
+  {
+    "iso": 624,
+    "isoAlpha2": "GW",
+    "isoAlpha3": "GNB",
+    "name": "Guinea-Bissau",
+    "phonePrefix": "+245"
+  },
+  {
+    "iso": 328,
+    "isoAlpha2": "GY",
+    "isoAlpha3": "GUY",
+    "name": "Guyana",
+    "phonePrefix": "+592"
+  },
+  {
+    "iso": 332,
+    "isoAlpha2": "HT",
+    "isoAlpha3": "HTI",
+    "name": "Haiti",
+    "phonePrefix": "+509"
+  },
+  {
+    "iso": 334,
+    "isoAlpha2": "HM",
+    "isoAlpha3": "HMD",
+    "name": "Heard Island and Mcdonald Islands",
+    "phonePrefix": "+61"
+  },
+  {
+    "iso": 340,
+    "isoAlpha2": "HN",
+    "isoAlpha3": "HND",
+    "name": "Honduras",
+    "phonePrefix": "+504"
+  },
+  {
+    "iso": 344,
+    "isoAlpha2": "HK",
+    "isoAlpha3": "HKG",
+    "name": "Hong Kong",
+    "phonePrefix": "+852"
+  },
+  {
+    "iso": 348,
+    "isoAlpha2": "HU",
+    "isoAlpha3": "HUN",
+    "name": "Hungary",
+    "phonePrefix": "+36"
+  },
+  {
+    "iso": 352,
+    "isoAlpha2": "IS",
+    "isoAlpha3": "ISL",
+    "name": "Iceland",
+    "phonePrefix": "+354"
+  },
+  {
+    "iso": 356,
+    "isoAlpha2": "IN",
+    "isoAlpha3": "IND",
+    "name": "India",
+    "phonePrefix": "+91"
+  },
+  {
+    "iso": 360,
+    "isoAlpha2": "ID",
+    "isoAlpha3": "IDN",
+    "name": "Indonesia",
+    "phonePrefix": "+62"
+  },
+  {
+    "iso": 372,
+    "isoAlpha2": "IE",
+    "isoAlpha3": "IRL",
+    "name": "Ireland",
+    "phonePrefix": "+353"
+  },
+  {
+    "iso": 833,
+    "isoAlpha2": "IM",
+    "isoAlpha3": "IMN",
+    "name": "Isle of Man",
+    "phonePrefix": "+44"
+  },
+  {
+    "iso": 376,
+    "isoAlpha2": "IL",
+    "isoAlpha3": "ISR",
+    "name": "Israel",
+    "phonePrefix": "+972"
+  },
+  {
+    "iso": 380,
+    "isoAlpha2": "IT",
+    "isoAlpha3": "ITA",
+    "name": "Italy",
+    "phonePrefix": "+39"
+  },
+  {
+    "iso": 388,
+    "isoAlpha2": "JM",
+    "isoAlpha3": "JAM",
+    "name": "Jamaica",
+    "phonePrefix": "+1-876"
+  },
+  {
+    "iso": 392,
+    "isoAlpha2": "JP",
+    "isoAlpha3": "JPN",
+    "name": "Japan",
+    "phonePrefix": "+81"
+  },
+  {
+    "iso": 832,
+    "isoAlpha2": "JE",
+    "isoAlpha3": "JEY",
+    "name": "Jersey",
+    "phonePrefix": "+44"
+  },
+  {
+    "iso": 400,
+    "isoAlpha2": "JO",
+    "isoAlpha3": "JOR",
+    "name": "Jordan",
+    "phonePrefix": "+962"
+  },
+  {
+    "iso": 398,
+    "isoAlpha2": "KZ",
+    "isoAlpha3": "KAZ",
+    "name": "Kazakhstan",
+    "phonePrefix": "+7"
+  },
+  {
+    "iso": 404,
+    "isoAlpha2": "KE",
+    "isoAlpha3": "KEN",
+    "name": "Kenya",
+    "phonePrefix": "+254"
+  },
+  {
+    "iso": 296,
+    "isoAlpha2": "KI",
+    "isoAlpha3": "KIR",
+    "name": "Kiribati",
+    "phonePrefix": "+686"
+  },
+  {
+    "iso": 410,
+    "isoAlpha2": "KR",
+    "isoAlpha3": "KOR",
+    "name": "Korea, Republic of",
+    "phonePrefix": "+82"
+  },
+  {
+    "iso": 414,
+    "isoAlpha2": "KW",
+    "isoAlpha3": "KWT",
+    "name": "Kuwait",
+    "phonePrefix": "+965"
+  },
+  {
+    "iso": 417,
+    "isoAlpha2": "KG",
+    "isoAlpha3": "KGZ",
+    "name": "Kyrgyzstan",
+    "phonePrefix": "+996"
+  },
+  {
+    "iso": 418,
+    "isoAlpha2": "LA",
+    "isoAlpha3": "LAO",
+    "name": "Lao PDR",
+    "phonePrefix": "+856"
+  },
+  {
+    "iso": 428,
+    "isoAlpha2": "LV",
+    "isoAlpha3": "LVA",
+    "name": "Latvia",
+    "phonePrefix": "+371"
+  },
+  {
+    "iso": 426,
+    "isoAlpha2": "LS",
+    "isoAlpha3": "LSO",
+    "name": "Lesotho",
+    "phonePrefix": "+266"
+  },
+  {
+    "iso": 438,
+    "isoAlpha2": "LI",
+    "isoAlpha3": "LIE",
+    "name": "Liechtenstein",
+    "phonePrefix": "+423"
+  },
+  {
+    "iso": 440,
+    "isoAlpha2": "LT",
+    "isoAlpha3": "LTU",
+    "name": "Lithuania",
+    "phonePrefix": "+370"
+  },
+  {
+    "iso": 442,
+    "isoAlpha2": "LU",
+    "isoAlpha3": "LUX",
+    "name": "Luxembourg",
+    "phonePrefix": "+352"
+  },
+  {
+    "iso": 446,
+    "isoAlpha2": "MO",
+    "isoAlpha3": "MAC",
+    "name": "Macao",
+    "phonePrefix": "+853"
+  },
+  {
+    "iso": 807,
+    "isoAlpha2": "MK",
+    "isoAlpha3": "MKD",
+    "name": "Macedonia",
+    "phonePrefix": "+389"
+  },
+  {
+    "iso": 450,
+    "isoAlpha2": "MG",
+    "isoAlpha3": "MDG",
+    "name": "Madagascar",
+    "phonePrefix": "+261"
+  },
+  {
+    "iso": 454,
+    "isoAlpha2": "MW",
+    "isoAlpha3": "MWI",
+    "name": "Malawi",
+    "phonePrefix": "+265"
+  },
+  {
+    "iso": 458,
+    "isoAlpha2": "MY",
+    "isoAlpha3": "MYS",
+    "name": "Malaysia",
+    "phonePrefix": "+60"
+  },
+  {
+    "iso": 462,
+    "isoAlpha2": "MV",
+    "isoAlpha3": "MDV",
+    "name": "Maldives",
+    "phonePrefix": "+960"
+  },
+  {
+    "iso": 466,
+    "isoAlpha2": "ML",
+    "isoAlpha3": "MLI",
+    "name": "Mali",
+    "phonePrefix": "+223"
+  },
+  {
+    "iso": 470,
+    "isoAlpha2": "MT",
+    "isoAlpha3": "MLT",
+    "name": "Malta",
+    "phonePrefix": "+356"
+  },
+  {
+    "iso": 584,
+    "isoAlpha2": "MH",
+    "isoAlpha3": "MHL",
+    "name": "Marshall Islands",
+    "phonePrefix": "+692"
+  },
+  {
+    "iso": 474,
+    "isoAlpha2": "MQ",
+    "isoAlpha3": "MTQ",
+    "name": "Martinique",
+    "phonePrefix": "+596"
+  },
+  {
+    "iso": 478,
+    "isoAlpha2": "MR",
+    "isoAlpha3": "MRT",
+    "name": "Mauritania",
+    "phonePrefix": "+222"
+  },
+  {
+    "iso": 480,
+    "isoAlpha2": "MU",
+    "isoAlpha3": "MUS",
+    "name": "Mauritius",
+    "phonePrefix": "+230"
+  },
+  {
+    "iso": 175,
+    "isoAlpha2": "YT",
+    "isoAlpha3": "MYT",
+    "name": "Mayotte",
+    "phonePrefix": "+262"
+  },
+  {
+    "iso": 484,
+    "isoAlpha2": "MX",
+    "isoAlpha3": "MEX",
+    "name": "Mexico",
+    "phonePrefix": "+52"
+  },
+  {
+    "iso": 583,
+    "isoAlpha2": "FM",
+    "isoAlpha3": "FSM",
+    "name": "Micronesia",
+    "phonePrefix": "+691"
+  },
+  {
+    "iso": 498,
+    "isoAlpha2": "MD",
+    "isoAlpha3": "MDA",
+    "name": "Moldova",
+    "phonePrefix": "+373"
+  },
+  {
+    "iso": 492,
+    "isoAlpha2": "MC",
+    "isoAlpha3": "MCO",
+    "name": "Monaco",
+    "phonePrefix": "+377"
+  },
+  {
+    "iso": 496,
+    "isoAlpha2": "MN",
+    "isoAlpha3": "MNG",
+    "name": "Mongolia",
+    "phonePrefix": "+976"
+  },
+  {
+    "iso": 499,
+    "isoAlpha2": "ME",
+    "isoAlpha3": "MNE",
+    "name": "Montenegro",
+    "phonePrefix": "+382"
+  },
+  {
+    "iso": 500,
+    "isoAlpha2": "MS",
+    "isoAlpha3": "MSR",
+    "name": "Montserrat",
+    "phonePrefix": "+1-664"
+  },
+  {
+    "iso": 504,
+    "isoAlpha2": "MA",
+    "isoAlpha3": "MAR",
+    "name": "Morocco",
+    "phonePrefix": "+212"
+  },
+  {
+    "iso": 508,
+    "isoAlpha2": "MZ",
+    "isoAlpha3": "MOZ",
+    "name": "Mozambique",
+    "phonePrefix": "+258"
+  },
+  {
+    "iso": 516,
+    "isoAlpha2": "NA",
+    "isoAlpha3": "NAM",
+    "name": "Namibia",
+    "phonePrefix": "+264"
+  },
+  {
+    "iso": 520,
+    "isoAlpha2": "NR",
+    "isoAlpha3": "NRU",
+    "name": "Nauru",
+    "phonePrefix": "+674"
+  },
+  {
+    "iso": 524,
+    "isoAlpha2": "NP",
+    "isoAlpha3": "NPL",
+    "name": "Nepal",
+    "phonePrefix": "+977"
+  },
+  {
+    "iso": 528,
+    "isoAlpha2": "NL",
+    "isoAlpha3": "NLD",
+    "name": "Netherlands",
+    "phonePrefix": "+31"
+  },
+  {
+    "iso": 530,
+    "isoAlpha2": "AN",
+    "isoAlpha3": "ANT",
+    "name": "Netherlands Antilles",
+    "phonePrefix": "+599"
+  },
+  {
+    "iso": 540,
+    "isoAlpha2": "NC",
+    "isoAlpha3": "NCL",
+    "name": "New Caledonia",
+    "phonePrefix": "+687"
+  },
+  {
+    "iso": 554,
+    "isoAlpha2": "NZ",
+    "isoAlpha3": "NZL",
+    "name": "New Zealand",
+    "phonePrefix": "+64"
+  },
+  {
+    "iso": 558,
+    "isoAlpha2": "NI",
+    "isoAlpha3": "NIC",
+    "name": "Nicaragua",
+    "phonePrefix": "+505"
+  },
+  {
+    "iso": 562,
+    "isoAlpha2": "NE",
+    "isoAlpha3": "NER",
+    "name": "Niger",
+    "phonePrefix": "+227"
+  },
+  {
+    "iso": 566,
+    "isoAlpha2": "NG",
+    "isoAlpha3": "NGA",
+    "name": "Nigeria",
+    "phonePrefix": "+234"
+  },
+  {
+    "iso": 570,
+    "isoAlpha2": "NU",
+    "isoAlpha3": "NIU",
+    "name": "Niue",
+    "phonePrefix": "+683"
+  },
+  {
+    "iso": 574,
+    "isoAlpha2": "NF",
+    "isoAlpha3": "NFK",
+    "name": "Norfolk Island",
+    "phonePrefix": "+672"
+  },
+  {
+    "iso": 580,
+    "isoAlpha2": "MP",
+    "isoAlpha3": "MNP",
+    "name": "Northern Mariana Islands",
+    "phonePrefix": "+1-670"
+  },
+  {
+    "iso": 578,
+    "isoAlpha2": "NO",
+    "isoAlpha3": "NOR",
+    "name": "Norway",
+    "phonePrefix": "+47"
+  },
+  {
+    "iso": 512,
+    "isoAlpha2": "OM",
+    "isoAlpha3": "OMN",
+    "name": "Oman",
+    "phonePrefix": "+968"
+  },
+  {
+    "iso": 586,
+    "isoAlpha2": "PK",
+    "isoAlpha3": "PAK",
+    "name": "Pakistan",
+    "phonePrefix": "+92"
+  },
+  {
+    "iso": 585,
+    "isoAlpha2": "PW",
+    "isoAlpha3": "PLW",
+    "name": "Palau",
+    "phonePrefix": "+680"
+  },
+  {
+    "iso": 275,
+    "isoAlpha2": "PS",
+    "isoAlpha3": "PSE",
+    "name": "Palestinian Territory, Occupied",
+    "phonePrefix": "+970"
+  },
+  {
+    "iso": 591,
+    "isoAlpha2": "PA",
+    "isoAlpha3": "PAN",
+    "name": "Panamá",
+    "phonePrefix": "+507"
+  },
+  {
+    "iso": 598,
+    "isoAlpha2": "PG",
+    "isoAlpha3": "PNG",
+    "name": "Papua New Guinea",
+    "phonePrefix": "+675"
+  },
+  {
+    "iso": 600,
+    "isoAlpha2": "PY",
+    "isoAlpha3": "PRY",
+    "name": "Paraguay",
+    "phonePrefix": "+595"
+  },
+  {
+    "iso": 604,
+    "isoAlpha2": "PE",
+    "isoAlpha3": "PER",
+    "name": "Perù",
+    "phonePrefix": "+51"
+  },
+  {
+    "iso": 608,
+    "isoAlpha2": "PH",
+    "isoAlpha3": "PHL",
+    "name": "Philippines",
+    "phonePrefix": "+63"
+  },
+  {
+    "iso": 612,
+    "isoAlpha2": "PN",
+    "isoAlpha3": "PCN",
+    "name": "Pitcairn",
+    "phonePrefix": "+44"
+  },
+  {
+    "iso": 616,
+    "isoAlpha2": "PL",
+    "isoAlpha3": "POL",
+    "name": "Poland",
+    "phonePrefix": "+48"
+  },
+  {
+    "iso": 620,
+    "isoAlpha2": "PT",
+    "isoAlpha3": "PRT",
+    "name": "Portugal",
+    "phonePrefix": "+351"
+  },
+  {
+    "iso": 630,
+    "isoAlpha2": "PR",
+    "isoAlpha3": "PRI",
+    "name": "Puerto Rico",
+    "phonePrefix": "+1-787"
+  },
+  {
+    "iso": 634,
+    "isoAlpha2": "QA",
+    "isoAlpha3": "QAT",
+    "name": "Qatar",
+    "phonePrefix": "+974"
+  },
+  {
+    "iso": 638,
+    "isoAlpha2": "RE",
+    "isoAlpha3": "REU",
+    "name": "Reunion",
+    "phonePrefix": "+262"
+  },
+  {
+    "iso": 642,
+    "isoAlpha2": "RO",
+    "isoAlpha3": "ROU",
+    "name": "Romania",
+    "phonePrefix": "+40"
+  },
+  {
+    "iso": 643,
+    "isoAlpha2": "RU",
+    "isoAlpha3": "RUS",
+    "name": "Russian Federation",
+    "phonePrefix": "+7"
+  },
+  {
+    "iso": 646,
+    "isoAlpha2": "RW",
+    "isoAlpha3": "RWA",
+    "name": "Rwanda",
+    "phonePrefix": "+250"
+  },
+  {
+    "iso": 652,
+    "isoAlpha2": "BL",
+    "isoAlpha3": "BLM",
+    "name": "Saint-Barthélemy",
+    "phonePrefix": "+590"
+  },
+  {
+    "iso": 654,
+    "isoAlpha2": "SH",
+    "isoAlpha3": "SHN",
+    "name": "Saint Helena",
+    "phonePrefix": "+290"
+  },
+  {
+    "iso": 659,
+    "isoAlpha2": "KN",
+    "isoAlpha3": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "phonePrefix": "+1-869"
+  },
+  {
+    "iso": 662,
+    "isoAlpha2": "LC",
+    "isoAlpha3": "LCA",
+    "name": "Saint Lucia",
+    "phonePrefix": "+1-758"
+  },
+  {
+    "iso": 663,
+    "isoAlpha2": "MF",
+    "isoAlpha3": "MAF",
+    "name": "Saint-Martin",
+    "phonePrefix": "+31"
+  },
+  {
+    "iso": 666,
+    "isoAlpha2": "PM",
+    "isoAlpha3": "SPM",
+    "name": "Saint Pierre and Miquelon",
+    "phonePrefix": "+508"
+  },
+  {
+    "iso": 670,
+    "isoAlpha2": "VC",
+    "isoAlpha3": "VCT",
+    "name": "Saint Vincent and Grenadines",
+    "phonePrefix": "+1-784"
+  },
+  {
+    "iso": 882,
+    "isoAlpha2": "WS",
+    "isoAlpha3": "WSM",
+    "name": "Samoa",
+    "phonePrefix": "+685"
+  },
+  {
+    "iso": 674,
+    "isoAlpha2": "SM",
+    "isoAlpha3": "SMR",
+    "name": "San Marino",
+    "phonePrefix": "+378"
+  },
+  {
+    "iso": 678,
+    "isoAlpha2": "ST",
+    "isoAlpha3": "STP",
+    "name": "Sao Tome and Principe",
+    "phonePrefix": "+239"
+  },
+  {
+    "iso": 682,
+    "isoAlpha2": "SA",
+    "isoAlpha3": "SAU",
+    "name": "Saudi Arabia",
+    "phonePrefix": "+966"
+  },
+  {
+    "iso": 686,
+    "isoAlpha2": "SN",
+    "isoAlpha3": "SEN",
+    "name": "Senegal",
+    "phonePrefix": "+221"
+  },
+  {
+    "iso": 690,
+    "isoAlpha2": "SC",
+    "isoAlpha3": "SYC",
+    "name": "Seychelles",
+    "phonePrefix": "+248"
+  },
+  {
+    "iso": 694,
+    "isoAlpha2": "SL",
+    "isoAlpha3": "SLE",
+    "name": "Sierra Leone",
+    "phonePrefix": "+232"
+  },
+  {
+    "iso": 702,
+    "isoAlpha2": "SG",
+    "isoAlpha3": "SGP",
+    "name": "Singapore",
+    "phonePrefix": "+65"
+  },
+  {
+    "iso": 703,
+    "isoAlpha2": "SK",
+    "isoAlpha3": "SVK",
+    "name": "Slovakia",
+    "phonePrefix": "+421"
+  },
+  {
+    "iso": 705,
+    "isoAlpha2": "SI",
+    "isoAlpha3": "SVN",
+    "name": "Slovenia",
+    "phonePrefix": "+386"
+  },
+  {
+    "iso": 90,
+    "isoAlpha2": "SB",
+    "isoAlpha3": "SLB",
+    "name": "Solomon Islands",
+    "phonePrefix": "+677"
+  },
+  {
+    "iso": 710,
+    "isoAlpha2": "ZA",
+    "isoAlpha3": "ZAF",
+    "name": "South Africa",
+    "phonePrefix": "+27"
+  },
+  {
+    "iso": 239,
+    "isoAlpha2": "GS",
+    "isoAlpha3": "SGS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "phonePrefix": "+44"
+  },
+  {
+    "iso": 724,
+    "isoAlpha2": "ES",
+    "isoAlpha3": "ESP",
+    "name": "Spain",
+    "phonePrefix": "+34"
+  },
+  {
+    "iso": 144,
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "name": "Sri Lanka",
+    "phonePrefix": "+94"
+  },
+  {
+    "iso": 740,
+    "isoAlpha2": "SR",
+    "isoAlpha3": "SUR",
+    "name": "Suriname",
+    "phonePrefix": "+597"
+  },
+  {
+    "iso": 744,
+    "isoAlpha2": "SJ",
+    "isoAlpha3": "SJM",
+    "name": "Svalbard and Jan Mayen Islands",
+    "phonePrefix": "+47"
+  },
+  {
+    "iso": 748,
+    "isoAlpha2": "SZ",
+    "isoAlpha3": "SWZ",
+    "name": "Swaziland",
+    "phonePrefix": "+268"
+  },
+  {
+    "iso": 752,
+    "isoAlpha2": "SE",
+    "isoAlpha3": "SWE",
+    "name": "Sweden",
+    "phonePrefix": "+46"
+  },
+  {
+    "iso": 756,
+    "isoAlpha2": "CH",
+    "isoAlpha3": "CHE",
+    "name": "Switzerland",
+    "phonePrefix": "+41"
+  },
+  {
+    "iso": 158,
+    "isoAlpha2": "TW",
+    "isoAlpha3": "TWN",
+    "name": "Taiwan",
+    "phonePrefix": "+886"
+  },
+  {
+    "iso": 762,
+    "isoAlpha2": "TJ",
+    "isoAlpha3": "TJK",
+    "name": "Tajikistan",
+    "phonePrefix": "+992"
+  },
+  {
+    "iso": 834,
+    "isoAlpha2": "TZ",
+    "isoAlpha3": "TZA",
+    "name": "Tanzania",
+    "phonePrefix": "+255"
+  },
+  {
+    "iso": 764,
+    "isoAlpha2": "TH",
+    "isoAlpha3": "THA",
+    "name": "Thailand",
+    "phonePrefix": "+66"
+  },
+  {
+    "iso": 626,
+    "isoAlpha2": "TL",
+    "isoAlpha3": "TLS",
+    "name": "Timor-Leste",
+    "phonePrefix": "+670"
+  },
+  {
+    "iso": 768,
+    "isoAlpha2": "TG",
+    "isoAlpha3": "TGO",
+    "name": "Togo",
+    "phonePrefix": "+228"
+  },
+  {
+    "iso": 772,
+    "isoAlpha2": "TK",
+    "isoAlpha3": "TKL",
+    "name": "Tokelau",
+    "phonePrefix": "+690"
+  },
+  {
+    "iso": 776,
+    "isoAlpha2": "TO",
+    "isoAlpha3": "TON",
+    "name": "Tonga",
+    "phonePrefix": "+676"
+  },
+  {
+    "iso": 780,
+    "isoAlpha2": "TT",
+    "isoAlpha3": "TTO",
+    "name": "Trinidad and Tobago",
+    "phonePrefix": "+1-868"
+  },
+  {
+    "iso": 792,
+    "isoAlpha2": "TR",
+    "isoAlpha3": "TUR",
+    "name": "Turkey",
+    "phonePrefix": "+90"
+  },
+  {
+    "iso": 795,
+    "isoAlpha2": "TM",
+    "isoAlpha3": "TKM",
+    "name": "Turkmenistan",
+    "phonePrefix": "+993"
+  },
+  {
+    "iso": 796,
+    "isoAlpha2": "TC",
+    "isoAlpha3": "TCA",
+    "name": "Turks and Caicos Islands",
+    "phonePrefix": "+1-649"
+  },
+  {
+    "iso": 798,
+    "isoAlpha2": "TV",
+    "isoAlpha3": "TUV",
+    "name": "Tuvalu",
+    "phonePrefix": "+688"
+  },
+  {
+    "iso": 800,
+    "isoAlpha2": "UG",
+    "isoAlpha3": "UGA",
+    "name": "Uganda",
+    "phonePrefix": "+256"
+  },
+  {
+    "iso": 804,
+    "isoAlpha2": "UA",
+    "isoAlpha3": "UKR",
+    "name": "Ukraine",
+    "phonePrefix": "+380"
+  },
+  {
+    "iso": 784,
+    "isoAlpha2": "AE",
+    "isoAlpha3": "ARE",
+    "name": "United Arab Emirates",
+    "phonePrefix": "+971"
+  },
+  {
+    "iso": 826,
+    "isoAlpha2": "GB",
+    "isoAlpha3": "GBR",
+    "name": "United Kingdom",
+    "phonePrefix": "+44"
+  },
+  {
+    "iso": 581,
+    "isoAlpha2": "UM",
+    "isoAlpha3": "UMI",
+    "name": "United States Minor Outlying Islands",
+    "phonePrefix": "+1"
+  },
+  {
+    "iso": 840,
+    "isoAlpha2": "US",
+    "isoAlpha3": "USA",
+    "name": "United States of America",
+    "phonePrefix": "+1"
+  },
+  {
+    "iso": 858,
+    "isoAlpha2": "UY",
+    "isoAlpha3": "URY",
+    "name": "Uruguay",
+    "phonePrefix": "+598"
+  },
+  {
+    "iso": 860,
+    "isoAlpha2": "UZ",
+    "isoAlpha3": "UZB",
+    "name": "Uzbekistan",
+    "phonePrefix": "+998"
+  },
+  {
+    "iso": 548,
+    "isoAlpha2": "VU",
+    "isoAlpha3": "VUT",
+    "name": "Vanuatu",
+    "phonePrefix": "+678"
+  },
+  {
+    "iso": 336,
+    "isoAlpha2": "VA",
+    "isoAlpha3": "VAT",
+    "name": "Vatican City State",
+    "phonePrefix": "+379"
+  },
+  {
+    "iso": 862,
+    "isoAlpha2": "VE",
+    "isoAlpha3": "VEN",
+    "name": "Venezuela",
+    "phonePrefix": "+58"
+  },
+  {
+    "iso": 704,
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "name": "Viet Nam",
+    "phonePrefix": "+84"
+  },
+  {
+    "iso": 850,
+    "isoAlpha2": "VI",
+    "isoAlpha3": "VIR",
+    "name": "Virgin Islands",
+    "phonePrefix": "+1-340"
+  },
+  {
+    "iso": 876,
+    "isoAlpha2": "WF",
+    "isoAlpha3": "WLF",
+    "name": "Wallis and Futuna Islands",
+    "phonePrefix": "+681"
+  },
+  {
+    "iso": 732,
+    "isoAlpha2": "EH",
+    "isoAlpha3": "ESH",
+    "name": "Western Sahara",
+    "phonePrefix": "+212"
+  },
+  {
+    "iso": 887,
+    "isoAlpha2": "YE",
+    "isoAlpha3": "YEM",
+    "name": "Yemen",
+    "phonePrefix": "+967"
+  },
+  {
+    "iso": 894,
+    "isoAlpha2": "ZM",
+    "isoAlpha3": "ZMB",
+    "name": "Zambia",
+    "phonePrefix": "+260"
+  }
+]

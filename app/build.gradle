@@ -1,0 +1,126 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'kotlin-kapt'
+    id 'dagger.hilt.android.plugin'
+    id 'kotlinx-serialization'
+}
+
+android {
+    namespace 'com.arcadone.cloudsharesnap'
+
+    defaultConfig {
+        compileSdk = findProperty("android.compileSdkVersion") as Integer
+        applicationId findProperty("android.applicationId")
+        targetSdkVersion findProperty("android.targetSdkVersion") as Integer
+        minSdkVersion findProperty("android.minSdkVersion") as Integer
+        versionCode findProperty("android.versionCode") as Integer
+        versionName findProperty("android.versionName")
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        vectorDrawables {
+            useSupportLibrary true
+        }
+    }
+
+    buildTypes {
+        debug {
+            debuggable true
+        }
+
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_17.toString()
+    }
+
+    kotlin.sourceSets.configureEach {
+        languageSettings.optIn("kotlin.RequiresOptIn")
+        languageSettings.optIn("androidx.compose.material3.ExperimentalMaterial3Api")
+        languageSettings.optIn("androidx.compose.material.ExperimentalMaterialApi")
+    }
+
+    buildFeatures {
+        compose true
+        buildConfig true
+    }
+
+    composeOptions {
+        kotlinCompilerExtensionVersion "1.4.7"
+    }
+
+    packagingOptions {
+        resources {
+            excludes += '/META-INF/{AL2.0,LGPL2.1}'
+        }
+    }
+}
+
+dependencies {
+    implementation "androidx.core:core-ktx:$core_version"
+    implementation "androidx.activity:activity-compose:$activity_compose_version"
+    implementation "androidx.core:core-splashscreen:$splashscreen_version"
+
+    // Compose
+    implementation platform("androidx.compose:compose-bom:$compose_version")
+    implementation "androidx.compose.material3:material3"
+    implementation "androidx.compose.material:material-icons-extended"
+
+    // Compose Preview
+    implementation 'androidx.compose.ui:ui-tooling-preview'
+    debugImplementation "androidx.compose.ui:ui-tooling"
+
+    // Navigation
+    implementation "androidx.navigation:navigation-compose:$navigation_version"
+
+    // Hilt
+    implementation "com.google.dagger:hilt-android:$hilt_plugin_version"
+    kapt "com.google.dagger:hilt-compiler:$hilt_plugin_version"
+    implementation "androidx.hilt:hilt-navigation-compose:$hilt_version"
+
+    // Timber
+    implementation "com.jakewharton.timber:timber:$timber_version"
+
+    // Accompanist Permissions
+    implementation "com.google.accompanist:accompanist-permissions:$accompanist_permissions_version"
+
+    // Network
+    implementation("com.squareup.retrofit2:retrofit:${retrofit}")
+    implementation("com.squareup.retrofit2:converter-jackson:${retrofit}")
+    implementation("com.squareup.retrofit2:converter-scalars:${retrofit}")
+
+    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:${jacksonModuleKotlin}")
+
+    implementation("com.squareup.okhttp3:okhttp:${okHttpClient}")
+    implementation("com.squareup.okhttp3:logging-interceptor:${okHttpClient}")
+
+    // Coil
+    implementation("io.coil-kt:coil-compose:${coilCopose}")
+
+    //Tests
+    testImplementation "junit:junit:${junitVersion}"
+    testImplementation "org.mockito:mockito-core:${mockitoVersion}"
+    testImplementation "com.nhaarman.mockitokotlin2:mockito-kotlin:${mockitoKotlinVersion}"
+    testImplementation "androidx.arch.core:core-testing:${androidArchCoreTestingVersion}"
+    testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:${coroutinesTestVersion}"
+    testImplementation "androidx.test:core:${androidTestCoreVersion}"
+    testImplementation "com.squareup.okhttp3:mockwebserver:${mockwebserver}"
+    testImplementation "com.squareup.retrofit2:converter-gson:${retrofitGson}"
+
+    androidTestImplementation "androidx.test.ext:junit:${androidExtJUnitVersion}"
+    androidTestImplementation "androidx.test.espresso:espresso-core:${androidExpressoCoreVersion}"
+    androidTestImplementation platform('androidx.compose:compose-bom:2023.03.00')
+    androidTestImplementation 'androidx.compose.ui:ui-test-junit4'
+    debugImplementation 'androidx.compose.ui:ui-tooling'
+    debugImplementation 'androidx.compose.ui:ui-test-manifest'
+
+}
